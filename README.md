@@ -44,12 +44,11 @@
 
 - 📍 Karnataka, India
 - 📧 Email: darshanbr601@gmail.com
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BfyXhmDquRTGPXQtfEbNa3w%3D%3D) 
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/darshanbr-be-cse) 
 - 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com) *(Coming soon..)*
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 <!--
 **NavanChakravarthiHS/NavanChakravarthiHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
