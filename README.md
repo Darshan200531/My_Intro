@@ -1,12 +1,12 @@
 
-<h1 align="center">Hello World, I'm Navan Chakravarthi H S 👋</h1>
+<h1 align="center">Hello World, I'm Darshan B R 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 <p align="center">
-  <b>Full Stack Developer | Tech Enthusiast | Lifelong Learner | Machine Learning intrest </b>
+  <b>Full Stack Developer | Tech Enthusiast | Lifelong Learner</b>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 I'm currently a student with a passion for Web Development
-- 🛠️ Learning HTML, CSS, JavaScript, Git, React and Machine Learning
+- 🛠️ Learning HTML, CSS, JavaScript, Git, React 
 - 🌱 Exploring Backend: Node.js & Express.js
 - 📚 Interested in Open Source and Real-World Projects
 - 🎯 Goal: Become a Full-Stack Developer and contribute to impactful tech
@@ -34,8 +34,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navanchakravarthihs&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navanchakravarthihs&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=darshan200531&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshanbr&theme=tokyonight" width="48%">
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ### 📫 Connect with Me
 
 - 📍 Karnataka, India
-- 📧 Email: chakravarthi1307@gmail.com
+- 📧 Email: darshanbr601@gmail.com
 - 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BfyXhmDquRTGPXQtfEbNa3w%3D%3D) 
 - 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com) *(Coming soon..)*
 
