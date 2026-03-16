@@ -14,10 +14,10 @@
 ### 🧑‍💻 About Me
 
 - 🎓 I'm currently a student with a passion for Web Development
-- 🛠️ Learning HTML, CSS, JavaScript, Git, React 
-- 🌱 Exploring Backend: Node.js & Express.js
+- 🛠️ Learning Networking Basics, Cybersecurity Essentials, Bug bounting, HTML, CSS, JavaScript, Git, React 
+- 🌱 Exploring Tools : Nmap , Wireshark
 - 📚 Interested in Open Source and Real-World Projects
-- 🎯 Goal: Become a Full-Stack Developer and contribute to impactful tech
+- 🎯 Goal: Become a SOC Analyst and having interest in red team ,CEH
 
 ---
 
