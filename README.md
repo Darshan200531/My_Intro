@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b>Full Stack Developer | Tech Enthusiast | Lifelong Learner</b>
+  <b>|Cybersecurity|Aspiring CEH | SOC Analyst| Tech Enthusiast | Lifelong Learner</b>
 </p>
 
 ---
