@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm currently a student with a passion for Web Development
+- 🎓 I'm currently a student with a passion in CyberSecurity Field
 - 🛠️ Learning Networking Basics, Cybersecurity Essentials, Bug bounting, HTML, CSS, JavaScript, Git, React 
 - 🌱 Exploring Tools : Nmap , Wireshark
 - 📚 Interested in Open Source and Real-World Projects
